@@ -16,11 +16,13 @@
 •	Initial exploration revealed significant differences in petal length and width among the species, with Setosa having the smallest measurements and Virginica having the largest.
 
 # Initial Observations from Summary Statistics:
+
 **•	Setosa:** This species has the smallest measurements for all features, particularly the petal length and width.
 
 **•	Versicolor and Virginica:** These two species have overlapping ranges for sepal measurements but distinct differences in petal measurements, especially petal length.
 
 # Research Questions and Answer
+
 **1. Are there significant differences in the sepal length and width among the three Iris species?** 
 
 Yes, there are significant differences in sepal length and width among the three Iris species.
@@ -51,12 +53,7 @@ Setosa has the smallest petals, Versicolor has intermediate-sized petals, and Vi
 
 **3. Which features are most important for classifying Iris species?**
 
-**Correlation        Sepal.Length Sepal.Width   Petal.Length     Petal.Width**
-•**	Sepal.Length**    1.0000000     -0.1175698     0.8717538        0.8179411
-•**	Sepal.Width **   -0.1175698      1.0000000    -0.4284401       -0.3661259
-•**	Petal.Length  **  0.8717538     -0.4284401     1.0000000        0.9628654
-•**	Petal.Width **    0.8179411     -0.3661259     0.9628654        1.0000000
-
+<img width="291" alt="image" src="https://github.com/user-attachments/assets/cb3d6a77-3b59-4dcb-bc57-98db9b92cf72">
 
 **Key Observations:**
 
@@ -71,6 +68,7 @@ tend to have wider petals as well. This is a key feature for distinguishing betw
 o	**Sepal Length and Sepal Width:** There's a weak negative correlation, suggesting that as sepal length increases, sepal width tends to decrease slightly.
 
 **o	Sepal Width and Petal Length/Width**: Sepal width has a weak negative correlation with both petal length and petal width, 
+
 indicating that wider sepals are often associated with smaller petals.
 
 
@@ -93,6 +91,7 @@ indicating that wider sepals are often associated with smaller petals.
  **Outliers:** There appears to be one outlier in the Versicolor species.
 
 **Interpretation:**
+
 **•	Setosa:** This species has the shortest petal length, with very little variation.
 
 **•	Versicolor: **The petal length is significantly longer than Setosa, with a moderate range of values.
@@ -118,6 +117,7 @@ However, there's a general trend of increasing sepal width with increasing sepal
 **Analyzing the Histogram of Sepal Length**
 
 **Key Observations:**
+
 **Normal Distribution:** The histogram suggests that the distribution of sepal length is approximately normal, with a peak around 5.5 cm.
 	
 **Range:** The sepal length ranges from approximately 4.3 cm to 7.9 cm.
@@ -129,7 +129,9 @@ However, there's a general trend of increasing sepal width with increasing sepal
 ![image](https://github.com/user-attachments/assets/4684d9f2-b564-404c-9884-c7bf8a7e9036)
 
 **Analyzing the Histogram of Sepal Width**
+
 **Key Observations:**
+
 **Normal Distribution:** The histogram suggests a roughly normal distribution, with a peak around 3 cm.
 
 **Range:** The sepal width ranges from approximately 2 to 4.5 cm.
