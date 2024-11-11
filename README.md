@@ -52,7 +52,8 @@ Setosa has the smallest petals, Versicolor has intermediate-sized petals, and Vi
 
 # 3. Which features are most important for classifying Iris species?
 
-<img width="291" alt="image" src="https://github.com/user-attachments/assets/cb3d6a77-3b59-4dcb-bc57-98db9b92cf72">
+<img width="286" alt="image" src="https://github.com/user-attachments/assets/6c98a4c5-e368-4b89-a290-7eb5d17ab51d">
+
 
 **Key Observations:**
 
