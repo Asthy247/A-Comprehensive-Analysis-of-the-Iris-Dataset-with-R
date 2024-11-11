@@ -22,8 +22,7 @@
 **•	Versicolor and Virginica:** These two species have overlapping ranges for sepal measurements but distinct differences in petal measurements, especially petal length.
 
 # Research Questions and Answer
-
-**1. Are there significant differences in the sepal length and width among the three Iris species?** 
+# 1. Are there significant differences in the sepal length and width among the three Iris species?
 
 Yes, there are significant differences in sepal length and width among the three Iris species.
 
@@ -43,7 +42,7 @@ statistically significant.
 **o	Versicolor vs. Virginica:** The mean sepal length of Virginica is 0.65 units greater than Versicolor.
 
 
-**2. Are there significant differences in the petal length and width among the three Iris species?**
+# 2. Are there significant differences in the petal length and width among the three Iris species?
 
 Yes, there are significant differences in petal length and width among the three Iris species.
 
@@ -51,7 +50,7 @@ The box plots and scatter plots clearly demonstrate that petal length and width 
 
 Setosa has the smallest petals, Versicolor has intermediate-sized petals, and Virginica has the largest petals.
 
-**3. Which features are most important for classifying Iris species?**
+# 3. Which features are most important for classifying Iris species?
 
 <img width="291" alt="image" src="https://github.com/user-attachments/assets/cb3d6a77-3b59-4dcb-bc57-98db9b92cf72">
 
